@@ -1,0 +1,17 @@
+{
+  "id": "omnipvp",
+  "name": "OmniPvP Network",
+  "description": "OmniPvP Network",
+  "addresses": [
+    "omnipvp.xyz",
+    "lunarihcf.cc"
+  ],
+  "primaryAddress": "omnipvp.xyz",
+  "minecraftVersions": [
+    "1.16.*",
+    "1.26.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#44a1e3",
+  "secondaryColor": "#ffffff"
+}
